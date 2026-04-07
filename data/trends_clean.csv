@@ -1,0 +1,88 @@
+post_id,title,category,score,num_comments,author,collected_at
+47673005,We found an undocumented bug in the Apollo 11 guidance computer code,technology,138,76,henrygarner,2026-04-07 18:57:43
+47673541,AI may be making us think and write more alike,technology,91,72,giuliomagnifico,2026-04-07 18:57:45
+47672318,Blackholing My Email,technology,77,2,semyonsh,2026-04-07 18:57:46
+47672295,Every GPU That Mattered,technology,155,86,jonbaer,2026-04-07 18:57:50
+47660925,Issue: Claude Code is unusable for complex engineering tasks with Feb updates,technology,1198,644,StanAngeloff,2026-04-07 18:57:54
+47641528,Apollo Guidance Computer restoration videos,technology,77,11,mariuz,2026-04-07 18:58:01
+47662596,AI singer now occupies eleven spots on iTunes singles chart,technology,219,340,flinner,2026-04-07 18:58:02
+47673576,Why a new computer is slower than an old computer [video],technology,7,0,tiernano,2026-04-07 18:58:08
+47667672,"Show HN: Hippo, biologically inspired memory for AI agents",technology,112,23,kitfunso,2026-04-07 18:58:10
+47661065,"The team behind a pro-Iran, Lego-themed viral-video campaign",technology,143,226,tantalor,2026-04-07 18:58:13
+47673444,"No ""New Deal"" for OpenAI",technology,5,1,jger15,2026-04-07 18:58:20
+47655408,Show HN: I built a tiny LLM to demystify how language models work,technology,877,130,armanified,2026-04-07 18:58:23
+47664205,Adobe modifies hosts file to detect whether Creative Cloud is installed,technology,315,148,rglullis,2026-04-07 18:58:24
+47652007,"Show HN: Real-time AI (audio/video in, voice out) on an M3 Pro with Gemma E2B",technology,276,35,karimf,2026-04-07 18:58:27
+47656981,"Drop, formerly Massdrop, ends most collaborations and rebrands under Corsair",technology,130,70,stevebmark,2026-04-07 18:58:28
+47655367,"Show HN: Gemma Gem – AI model embedded in a browser – no API keys, no cloud",technology,152,21,ikessler,2026-04-07 18:58:30
+47648828,"Eight years of wanting, three months of building with AI",technology,937,293,brilee,2026-04-07 18:58:34
+47655466,Employers use your personal data to figure out the lowest salary you'll accept,technology,443,282,thisislife2,2026-04-07 18:58:39
+47649742,Nanocode: The best Claude Code that $200 can buy in pure JAX on TPUs,technology,214,26,desideratum,2026-04-07 18:58:40
+47640728,Show HN: A game where you build a GPU,technology,951,185,Jaso1024,2026-04-07 18:58:44
+47667798,"Bernie Sanders: ""AI Is a Threat to Everything the American People Hold Dear""",technology,64,56,fortran77,2026-04-07 18:58:46
+47651540,Running Gemma 4 locally with LM Studio's new headless CLI and Claude Code,technology,400,98,vbtechguy,2026-04-07 18:58:47
+47668658,"The back story behind the first ""$1.8B"" dollar ""AI Company""",technology,60,9,chermanowicz,2026-04-07 18:58:53
+47640380,Apple approves driver that lets Nvidia eGPUs work with Arm Macs,technology,524,240,naves,2026-04-07 18:58:53
+47633396,Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw,technology,1091,829,firloop,2026-04-07 18:58:58
+47670981,"Three hundred synths, 3 hardware projects, and one app",worldnews,78,7,ductionist,2026-04-07 18:59:13
+47660954,German police name alleged leaders of GandCrab and REvil ransomware groups,worldnews,315,154,Bender,2026-04-07 18:59:20
+47662945,Show HN: GovAuctions lets you browse government auctions at once,worldnews,296,83,player_piano,2026-04-07 18:59:21
+47671498,When War Crimes Rhetoric Becomes Battlefield Reality,worldnews,38,38,dogscatstrees,2026-04-07 19:00:07
+47647788,The threat is comfortable drift toward not understanding what you're doing,worldnews,963,610,zaikunzhang,2026-04-07 19:00:09
+47669649,Global Fuel Shortage Pushes Governments Toward Demand Controls,worldnews,14,10,toomuchtodo,2026-04-07 19:00:34
+47615002,Qwen3.6-Plus: Towards real world agents,worldnews,592,209,pretext,2026-04-07 19:01:23
+47672537,Trump dilemma for US officers: disobey orders or commit war crimes,worldnews,6,0,KnuthIsGod,2026-04-07 19:01:24
+47664308,JPMorgan warns Tesla stock could sink 60% in new note,worldnews,61,18,freediddy,2026-04-07 19:01:30
+47668127,Bitwarden Is Down,worldnews,16,3,zhan_eg,2026-04-07 19:02:02
+47653036,Satellite firm Planet Labs to indefinitely withold Iran war imagery,worldnews,42,12,anigbrowl,2026-04-07 19:02:06
+47645817,How Pope Leo is pushing back on divine justification of war,worldnews,76,42,1659447091,2026-04-07 19:02:15
+47627419,The Axios supply chain attack used individually targeted social engineering,worldnews,47,11,cmitsakis,2026-04-07 19:02:18
+47615756,Renewables reached nearly 50% of global electricity capacity last year,worldnews,297,148,Growtika,2026-04-07 19:02:25
+47625311,Bun: cgroup-aware AvailableParallelism / HardwareConcurrency on Linux,worldnews,45,24,tosh,2026-04-07 19:02:30
+47636765,Endian wars and anti-portability: this again?,worldnews,46,62,awilfox,2026-04-07 19:02:38
+47656682,Winners of the 2026 Kokuyo Design Awards,worldnews,52,17,zdw,2026-04-07 19:03:20
+47624317,New Rowhammer attacks give complete control of machines running Nvidia GPUs,worldnews,132,10,01-_-,2026-04-07 19:03:23
+47617217,Show HN: I tested 15 free AI models at building real software on a $25/year VPS,worldnews,37,7,j0rg3,2026-04-07 19:03:24
+47650273,"Meta, Google under attack as court cases bypass 30-year-old legal shield",worldnews,18,10,1vuio0pswjnm7,2026-04-07 19:03:32
+47668437,Former CIA director: 'Russia no longer has the upper hand' in Ukraine war,worldnews,9,1,doener,2026-04-07 19:03:33
+47644934,"Delve claiming that whistleblower was part of a ""targeted cyberattack""",worldnews,6,2,rrvsh,2026-04-07 19:03:39
+47672778,Breaking the console: a brief history of video game security,sports,43,7,sprado,2026-04-07 19:03:47
+47664186,"Battle for Wesnoth: open-source, turn-based strategy game",sports,508,150,akyuu,2026-04-07 19:04:11
+47656501,The 1987 game “The Last Ninja” was 40 kilobytes,sports,295,186,keepamovin,2026-04-07 19:04:27
+47637377,LÖVE: 2D Game Framework for Lua,sports,407,214,cl3misch,2026-04-07 19:04:42
+47667008,Show HN: I built a site that turns your Steam gaming hours into a RL skill tree,sports,6,1,naorz,2026-04-07 19:05:23
+47639727,"When legal sports betting surges, so do Americans' financial problems",sports,221,145,pseudolus,2026-04-07 19:06:10
+47609564,Steam on Linux Use Skyrocketed Above 5% in March,sports,784,367,hkmaxpro,2026-04-07 19:06:13
+47644726,"Power-washing, pool-cleaning and mowing – playing games about mundane jobs",sports,24,4,andsoitis,2026-04-07 19:06:30
+47633676,"Extra usage credit for Pro, Max, and Team plans",sports,64,61,angst,2026-04-07 19:06:41
+47641615,Sopwith – 1984 Game (2000),sports,98,42,elvis70,2026-04-07 19:07:04
+47662682,Tattoo ink induces inflammation and alters the immune response to vaccination,sports,15,0,ryan_j_naughton,2026-04-07 19:08:11
+47650234,Panorama – AI that finds your team's workflows and hidden structures,sports,6,1,bryantwolf,2026-04-07 19:08:14
+47642552,Nandgame – Build a Computer from Scratch,sports,8,0,Vortigaunt,2026-04-07 19:08:52
+47623053,"Show HN: Minimal Brain Teaser Web Game (Handcrafted, No AI)",sports,25,14,arttaboi,2026-04-07 19:09:04
+47627217,Running Out of Disk Space in Production,science,56,22,romes,2026-04-07 19:09:37
+47665207,SOM: A minimal Smalltalk for teaching of and research on Virtual Machines,science,52,0,tosh,2026-04-07 19:10:09
+47650502,Computational Physics (2nd Edition) (2025),science,182,22,teleforce,2026-04-07 19:10:31
+47656303,Case study: recovery of a corrupted 12 TB multi-device pool,science,116,64,salt4034,2026-04-07 19:10:36
+47648404,My Google Workspace account suspension,science,368,217,zenincognito,2026-04-07 19:11:21
+47629485,A case study in testing with 100+ Claude agents in parallel,science,66,54,thejash,2026-04-07 19:11:46
+47611993,VR Realizes the Cyberspace Metaphor,science,17,17,dryadin,2026-04-07 19:12:53
+47663650,NASA's Artemis II Crew Flies Around the Moon (Official Broadcast) [video],science,6,1,gwbas1c,2026-04-07 19:14:07
+47632504,"""Cognitive surrender"" leads AI users to abandon logical thinking, research finds",science,99,43,Bender,2026-04-07 19:14:14
+47607394,SolveSpace (open source 2D/3D CAD) working on Windows 2000 (2025),science,40,6,ruevs,2026-04-07 19:14:26
+47648226,SpaceX and OpenAI: The Mega IPO Grift [video],science,26,10,throw0101c,2026-04-07 19:14:31
+47673360,Show HN: Brutalist Concrete Laptop Stand (2024),entertainment,106,31,sam-bee,2026-04-07 19:15:21
+47674027,Show HN: A cartographer's attempt to realistically map Tolkien's world,entertainment,37,6,intofarlands,2026-04-07 19:15:22
+47673880,Show HN: Pion/handoff – Move WebRTC out of browser and into Go,entertainment,35,6,Sean-Der,2026-04-07 19:15:23
+47673394,"Show HN: Stop paying for Dropbox/Google Drive, use your own S3 bucket instead",entertainment,84,80,Zm44,2026-04-07 19:15:30
+47666024,Show HN: Ghost Pepper – Local hold-to-talk speech-to-text for macOS,entertainment,419,185,MattHart88,2026-04-07 19:15:32
+47616475,Haunting Photos Show the Aftermath of the Kursk Submarine Disaster in 2000,entertainment,39,1,mooreds,2026-04-07 19:15:33
+47638498,Show HN: AdaShape-3D modeler for intuitive 3D printing parts / Windows 11,entertainment,25,15,fsloth,2026-04-07 19:15:38
+47660853,Book review: There Is No Antimemetics Division,entertainment,273,204,ibobev,2026-04-07 19:15:44
+47636579,Show HN: Anos – a hand-written ~100KiB microkernel for x86-64 and RISC-V,entertainment,95,26,noone_youknow,2026-04-07 19:15:45
+47637828,Show HN: Tusk for macOS and Gnome,entertainment,108,36,factorialboy,2026-04-07 19:15:50
+47665685,Show HN: TTF-DOOM – A raycaster running inside TrueType font hinting,entertainment,59,12,4RH1T3CT0R,2026-04-07 19:15:55
+47662429,Show HN: Weird Clocks,entertainment,46,13,vunderba,2026-04-07 19:16:12
+47655392,Show HN: I made a YouTube search form with advanced filters,entertainment,315,198,nevernothing,2026-04-07 19:16:16
+47655268,"Show HN: Modo – I built an open-source alternative to Kiro, Cursor, and Windsurf",entertainment,98,22,mohshomis,2026-04-07 19:16:25
+47652322,Music for Programming,entertainment,344,170,merusame,2026-04-07 19:16:31
