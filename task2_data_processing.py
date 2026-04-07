@@ -7,7 +7,7 @@ data_orig = pd.read_json(filepath)
 
 df = data_orig.copy()
 
-print(f"Loaded Rows: {len(df)}")
+print(f"Loaded {len(df)} stories from {filepath}")
 
 df = df.drop_duplicates(subset=['post_id'])
 print("After removing duplicates:", len(df))
